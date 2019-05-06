@@ -1,0 +1,6 @@
+analysis,balance,balance_threshold,classification,data_path,end_time,execution_time,file_creation_time,max_models,min_mem_size,model_path,nthreads,project,run_id,run_path,run_time,scale,server_path,start_time,target,test_path
+0,False,0.2,False,,1555891267.574988,0.0,2019-04-23 21:05:38,9,6,,1,,58erhH7N2,/content/p7TZ8WufJ/qlXRazR12/58erhH7N2,900,False,/content/p7TZ8WufJ/qlXRazR12,1555891267.574984,T_degC,
+0,False,0.2,False,,1555892362.6636534,0.0,2019-04-23 21:05:38,9,6,,1,,lOBYWUG72,/content/p7TZ8WufJ/qlXRazR12/58erhH7N2/lOBYWUG72,1100,False,/content/p7TZ8WufJ/qlXRazR12/58erhH7N2,1555892362.6636498,T_degC,
+0,False,0.2,False,,1555889672.2975872,0.0,2019-04-23 21:05:38,9,6,,1,,p7TZ8WufJ,/content/p7TZ8WufJ,500,False,/content,1555889672.2975836,T_degC,
+0,False,0.2,False,,1555890372.5149999,0.0,2019-04-23 21:05:38,9,6,,1,,qlXRazR12,/content/p7TZ8WufJ/qlXRazR12,700,False,/content/p7TZ8WufJ,1555890372.5149949,T_degC,
+0,False,0.2,False,,1555893587.253786,0.0,2019-04-23 21:05:38,9,6,,1,,xmbfawAR9,/content/p7TZ8WufJ/qlXRazR12/58erhH7N2/lOBYWUG72/xmbfawAR9,1300,False,/content/p7TZ8WufJ/qlXRazR12/58erhH7N2/lOBYWUG72,1555893587.253782,T_degC,
